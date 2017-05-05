@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   border: 1px solid red;
+  overflow: hidden;
 }
 
 .test {
@@ -22,4 +23,15 @@
   bottom: 0;
   right: 0;
 
+}
+
+
+.hero {
+  width: 2vw;
+  height: 2vw;
+  background: black;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 5;
 }
