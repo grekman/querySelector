@@ -1,0 +1,2 @@
+# querySelector
+js querySelector  addEventListener
