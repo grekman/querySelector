@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 1px solid red;
+}
+
+.test {
+  width: 80vw;
+  height: 80vh  ;
+  margin: 10vh auto;
+  background: lime;
+  position: relative;
+
+}
+
+.tracker {
+  width: 2vw;
+  height: 2vw;
+  background: red;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+
+}
